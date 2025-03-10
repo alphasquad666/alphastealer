@@ -84,4 +84,7 @@
 .getcams - Get number of webcams on the victim computer.
 .wallpaper [<file>] - Change the background on the victim computer.
 .inject - Inject the discord the victim computer.
+.anydesk - Get the anydesk of the victim computer
 ```
+
+For Buy This Project Join At This Server: https://dsc.gg/alphasquad2025
